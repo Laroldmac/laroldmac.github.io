@@ -28,7 +28,7 @@ ul {
 }
 .row{
 	margin-top:100px;
-	min-height: 100px;
+	min-height: 50px;
 	justify-content: space-between;
 }
 .show{
