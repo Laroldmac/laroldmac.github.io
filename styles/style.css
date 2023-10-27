@@ -13,6 +13,10 @@ body{
 	font-family:Tahoma;
 	width: 1000px;
 }
+img{
+	width: 20%;
+	height: 20%;
+}
 h3{
 	color:rgb(92, 198, 227)
 }
