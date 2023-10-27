@@ -13,6 +13,9 @@ body{
 	font-family:Tahoma;
 	
 }
+nav{
+	color:teal;
+}
 img{
 	max-width: 20%;
 	max-height: 20%;
@@ -34,11 +37,13 @@ span {
 }
 ul {
 	list-style-type: circle;
+	color:teal;
 }
 .row{
 	margin-top:100px;
 	min-height: 50px;
 	justify-content: space-between;
+	color:teal;
 }
 .show{
 	background-color: antiquewhite;
