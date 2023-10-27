@@ -19,6 +19,7 @@ img{
 	border-radius: 8px;
 	border: 1px solid #ddd;
 	background: antiquewhite;
+	align-content: center;
 }
 h3{
 	color:rgb(92, 198, 227)
