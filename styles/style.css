@@ -53,6 +53,6 @@ div{
 	align-content: center;
 }
 .accordion{
-	--#{$prefix}accordion-color: antiquewhite;
-	--#{$prefix}accordion-active-color: #e5c08f;
+	--bs-accordion-btn-bg: antiquewhite;
+	--bs-accordion-active-color: #e5c08f;
 }
