@@ -54,5 +54,5 @@ div{
 }
 .accordion{
 	--bs-accordion-btn-bg: antiquewhite;
-	--bs-accordion-active-color: #e5c08f;
+	--bs-accordion-active-bg: #e5c08f;
 }
