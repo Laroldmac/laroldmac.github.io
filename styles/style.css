@@ -52,3 +52,6 @@ div{
 	background: antiquewhite;
 	align-content: center;
 }
+.accordion{
+	--#{$prefix}accordion-color: antiquewhite;
+}
