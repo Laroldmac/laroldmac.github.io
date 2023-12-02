@@ -33,6 +33,11 @@ body{
   color: teal !important;
   background-color: antiquewhite !important;
 }
+.navbar-brand {
+  color: teal !important;
+  font-size: 24px; /* Adjust the font size as needed */
+}
+
 
 img{
 	width: 60%;
