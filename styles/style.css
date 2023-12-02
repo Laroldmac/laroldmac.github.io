@@ -14,8 +14,8 @@ body{
 	
 }
 nav{
-	color:teal;
-	background: black;
+	color:teal !important;
+	background: black !important;
 }
 img{
 	width: 60%;
