@@ -13,10 +13,27 @@ body{
 	font-family:Tahoma;
 	
 }
-.nav{
+.navbar{
 	color:teal !important;
 	background: antiquewhite !important;
 }
+
+.navbar {
+  margin-bottom: 0; 
+  padding-top: 0px; 
+  padding-bottom: 0px; 
+  color: teal !important;
+  background-color: antiquewhite !important;
+}
+.navbar-nav {
+  color: teal !important;
+  background-color: antiquewhite !important;
+}
+.nav-link {
+  color: teal !important;
+  background-color: antiquewhite !important;
+}
+
 img{
 	width: 60%;
 	height: 60%;
